@@ -11,5 +11,5 @@ This project is to help me study the concept of string concatenation in Python a
 - At the end, a story will be generated based on your input.
 - Read the paragraph and see if your story is coherent 😂😂😂
 
-NB: There are a number of madlib files and the `maingame.py` file pulls out a random one for you
-Have fun
+NB: There are a number of madlib files and the `maingame.py` file pulls out a random one for you. 
+Have fun!!
